@@ -1,0 +1,13 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+#todoList li span {
+  word-break: break-word;
+}
+
+.form-label {
+  color:gray; 
+  font-weight: 500; 
+}
